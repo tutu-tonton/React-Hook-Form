@@ -2,7 +2,7 @@
 
 ## 🎶 FormValidationが簡単に実装できる
 
-![](Jul-05-2020 09-59-50.gif)
+![](https://github.com/tutu-tonton/React-Hook-Form/blob/master/Jul-05-2020%2009-59-50.gif)
 
 参考:
 
